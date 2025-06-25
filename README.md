@@ -4,7 +4,7 @@
 
 ---
 
-## Features 🚀
+## 🚀 Features 
 
 | **Feature**                           | **Description**                                      |
 | ------------------------------------- | ---------------------------------------------------- |
@@ -14,31 +14,33 @@
 
 ---
 
+## 🧑‍💻 Technologies 
 
-## Installation 🛠️
+
+| **Technology**   | **Description**                                                |
+| ---------------- | -------------------------------------------------------------- |
+| 🐍 **Python**     | Scripting language used for URL shortening.                    |
+| 🚀 **Streamlit**  | Build interactive web apps with Streamlit.                     |
+| 🌐 **API**       | Handles the URL shortening process.                            |
+
+---
+
+## 🛠️ Installation 
 
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/urlnow.git
-   cd urlnow
+   git clone https://github.com/KrishBharadwaj5678/URLNow.git
+   cd URLNow
    ```
 
-2. **Create a virtual environment** (optional but recommended):
-
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # For Mac/Linux
-   venv\Scripts\activate     # For Windows
-   ```
-
-3. **Install dependencies**:
+2. **Install dependencies**:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-4. **Run the app**:
+3. **Run the app**:
 
    ```bash
    streamlit run app.py
@@ -46,15 +48,9 @@
 
 ---
 
-## Technologies Used 🧑‍💻
+## 🤝 Contributing 
 
-* **Streamlit**: A fast, easy way to build web apps with Python. ⚙️
-
----
-
-## Contributing 🤝
-
-We welcome contributions to **URLNow**! Here’s how you can contribute:
+We welcome contributions to **URLNow**!
 
 1. Fork the repository. 🍴
 2. Create a new branch (`git checkout -b feature-name`). 🌱
