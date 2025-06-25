@@ -16,7 +16,7 @@ link = st.text_input("Paste the URL to be shortened",placeholder="Enter the link
 btn = st.button("Shorten URL")
 if btn:
     if not(link.startswith("http://") or link.startswith("https://")):
-        st.info("⚠️ Please provide a valid URL beginning with http or https")
+        st.info("⚠️ Please provide a valid URL beginning with http or https!")
     else:
         try:
             url = "https://url-shortener-service.p.rapidapi.com/shorten"
