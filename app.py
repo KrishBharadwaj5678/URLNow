@@ -2,14 +2,14 @@ import streamlit as st
 import requests
 
 st.set_page_config(
-    page_title="ReURL | Free URL Shortener",
+    page_title="URLNow | Free URL Shortener",
     page_icon="icon.png",
     menu_items={
-        "About":"ReURL is a fast, reliable, and easy-to-use URL shortening service that helps you simplify long web addresses into short, shareable links."
+        "About":"URLNow is a fast, reliable, and easy-to-use URL shortening service that helps you simplify long web addresses into short, shareable links."
     }
 )
 
-st.write("<h2 style='color:orange;'>Shorten URLs Instantly with ReURL</h2>",unsafe_allow_html=True)
+st.write("<h2 style='color:orange;'>Shorten Your URL Using URLNow.</h2>",unsafe_allow_html=True)
 
 link = st.text_input("Paste the URL to be shortened",placeholder="Enter the link here")
 
