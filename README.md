@@ -2,7 +2,7 @@
 
 **URLNow** is a **simple**, **fast**, and **free** URL shortener service that allows you to shorten long URLs for easier sharing. 🔗
 
----
+![URLNowDemo](https://github.com/KrishBharadwaj5678/URLNow/raw/main/URLNowDemo.png)
 
 ## 🚀 Features 
 
@@ -50,10 +50,10 @@
 
 ## 🤝 Contributing 
 
-We welcome contributions! ✨
+Want to contribute? Here's how:
 
-1. Fork the repository. 🍴
-2. Create a new branch (`git checkout -b feature-name`). 🌱
-3. Make your changes and commit them (`git commit -am 'Add new feature'`). 💡
-4. Push to the branch (`git push origin feature-name`). 🚀
-5. Create a new pull request. 🔄
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
